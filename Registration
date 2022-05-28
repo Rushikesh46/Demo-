@@ -25,7 +25,7 @@
         <input type="radio" name="Male">Male
         <input type="radio" name="Female">Female
    	<div class="button">
-          <input type="submit" class="button" value="Set Up Account">
+              <input type="submit" class="button" value="Set Up Account">
         </div>
         
 	</form>
